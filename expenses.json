@@ -10,5 +10,11 @@
     "description": "Lunch",
     "amount": 20,
     "date": "2024-11-23T22:41:11.25218341-06:00"
+  },
+  {
+    "id": 3,
+    "description": "Kids Fees",
+    "amount": 436,
+    "date": "2024-11-23T22:57:50.361737091-06:00"
   }
 ]
